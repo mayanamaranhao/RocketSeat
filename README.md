@@ -6,6 +6,8 @@ Antes de executar o projeto, certifique-se de ter o Python instalado e as seguin
 
 - pandas
 - matplotlib
+
+
 Você pode instalá-las utilizando o pip:
 ```
 pip install pandas matplotlib
@@ -14,6 +16,7 @@ pip install pandas matplotlib
 
 Dicionário de Faturamento
 Os dados de faturamento utilizados no projeto são os seguintes:
+
 ```
 dict_faturamento = {
     'data_ref': [
